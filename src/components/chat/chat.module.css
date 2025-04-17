@@ -1,0 +1,34 @@
+.container{
+    width: 400px;
+    background-color: #ededed;
+    color : black;
+    border-radius: 25px;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    font-size: 22px;
+
+}
+.container  h1{
+    text-align: center;
+}
+.inputWrapper{
+    position: relative;
+}
+.inputWrapper  input {
+    width:100%;
+    margin: 10px auto;
+    border:1px solid #ccc;
+    border-radius: 25px;
+    padding: 15px;
+} 
+
+.ctaButton{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgb(100, 100, 236);
+    padding: 15px;
+    border-radius: 25px;
+    color: white;
+}
