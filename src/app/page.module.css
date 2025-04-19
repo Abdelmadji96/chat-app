@@ -4,3 +4,7 @@
     align-items: center;
     height: 100vh;
 }
+.button {
+    background-color: red;
+    padding: 15px;
+}
